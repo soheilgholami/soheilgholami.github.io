@@ -21,10 +21,10 @@
 
 domain: soheilgholami.github.io
 
-title: 
+title: Soheil Gholami, Ph.D.
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is built using Jekyll, a blog-aware static site generator written in Ruby.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://soheilgholami.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -38,13 +38,22 @@ plugins:
 include:
   - _pages 
 
+collections:
+  news:
+    output: true
+  projects: 
+    output: true
+  posts:
+    output: true
+  bibliography:
+    output: true
+
 header_pages:
-  - index.markdown
-  - _pages/blog.md
+  - index.md
   - _pages/news.md
   - _pages/projects.md
   - _pages/publications.md
-  - _pages/aboutme.md
+  - _pages/blog.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
