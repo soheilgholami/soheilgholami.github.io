@@ -10,4 +10,4 @@ Please, visit my
 for more details!
 </p>
 
-{% bibliography %}
+<!-- {% bibliography %} -->
