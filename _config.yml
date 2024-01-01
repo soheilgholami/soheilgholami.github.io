@@ -45,14 +45,14 @@ collections:
     output: true
   posts:
     output: true
-  bibliography:
-    output: true
+  # bibliography:
+  #   output: true
 
 header_pages:
   - index.md
   - _pages/news.md
   - _pages/projects.md
-  - _pages/publications.md
+  # - _pages/publications.md
   - _pages/blog.md
 
 # Exclude from processing.
