@@ -8,8 +8,8 @@ title: About Me
 <div style="display: grid; grid-template-columns: 65% 20px 35%; gap: 0;">
 
 <div style="padding: 20px">
-    <h1 style="color: grey;"> Soheil Gholami </h1>
-    <h2 style="color: grey;"> Postdoctoral Researcher </h2>
+    <h1> Soheil Gholami </h1>
+    <h2> Postdoctoral Researcher </h2>
     <h4 style="color: grey;"> Learning Algorithms and Systems Laboratory (LASA) </h4>
     <h4 style="color: grey;"> École Polytechnique Fédérale de Lausanne (EPFL) </h4>
 </div>
