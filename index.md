@@ -5,21 +5,11 @@ title: About Me
 
 <link rel="stylesheet" href="css/homepage_style.css">
 
-<div style="display: grid; grid-template-columns: 65% 20px 35%; gap: 0;">
-
 <div style="padding: 20px">
     <h1> Soheil Gholami </h1>
     <h2> Postdoctoral Researcher </h2>
     <h4 style="color: grey;"> Learning Algorithms and Systems Laboratory (LASA) </h4>
     <h4 style="color: grey;"> École Polytechnique Fédérale de Lausanne (EPFL) </h4>
-</div>
-
-<div></div> <!-- White Gap -->
-
-<div style="padding: 20px">
-    <img src="/assets/images/sgh.jpg" alt="Soheil" style="width:95%; border-radius:50%;">
-</div>
-
 </div>
 
 <div style="padding: 20px;">
@@ -38,3 +28,7 @@ My research interests include human-robot interaction and collaboration, skill a
 </p>
 
 </div>
+
+<!-- <div style="padding: 20px; display: block; margin-left: auto; margin-right: auto;">
+    <img src="/assets/images/sgh.jpg" alt="Soheil" style="width:50%; border-radius:50%;">
+</div>  -->
