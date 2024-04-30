@@ -30,6 +30,6 @@ title:  "RoBétArmé"
 <div class="section">
   <strong>Scientific Contributions:</strong>
   <ol>
-    <li>...</li> <!-- Add your contributions here -->
+        <li>Wu, R., <strong>Gholami, S.</strong>, Bonato, T., Munier, L., and Billard, A., Transferring Shotcrete Skills to Robots, Proceedings of the 10th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob 2024) - Accepted (link will be provided soon)</li>
   </ol>
 </div>
