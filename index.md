@@ -32,4 +32,11 @@ My research studies involve robotics, human motor control, and the intersection 
 More specifically, my research concentrates on various aspects of human-robot interaction and collaboration (both remote and proximate), task and motion/force planning, human factors and ergonomics, and skill acquisition and assessment.
 </p>
 
+<div>
+<strong>Selected Publications:</strong>
+<ol>
+<li><strong>Gholami, S.</strong>, Lorenzini, M., De Momi, E., & Ajoudani, A. (2022). <a href="https://ieeexplore.ieee.org/abstract/document/9724640">Quantitative physical ergonomics assessment of teleoperation interfaces</a>. IEEE Transactions on Human-Machine Systems, 52(2), 169-180.</li>
+<li>Garate, V. R.+, <strong>Gholami, S.</strong>+ (equal contribution), & Ajoudani, A. (2021). <a href="https://ieeexplore.ieee.org/abstract/document/9429911">A scalable framework for multi-robot tele-impedance control</a>. IEEE Transactions on Robotics, 37(6), 2052-2066.</li>
+</ol>
+</div>
 
