@@ -12,7 +12,7 @@ title: About Me
         <h4 style="color: grey;">Learning Algorithms and Systems Laboratory (LASA)</h4>
         <h4 style="color: grey;">École Polytechnique Fédérale de Lausanne (EPFL)</h4>
     </div>
-    <img src="/assets/images/sgh_2.jpg" alt="Soheil" style="max-width: 200px; height: auto; border-radius: 50%;">
+    <img src="/assets/images/sgh-profile-photo.jpg" alt="Soheil" style="max-width: 200px; height: auto; border-radius: 50%;">
 </div>
 
 <p style="text-align:left; text-align: justify; text-justify: inter-word;">
