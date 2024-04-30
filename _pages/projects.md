@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-In the course of my studies, I have been involved in multiple projects (the list is arranged in descending order, starting with the most recent project.):
+I have been involved in the following projects (the list is arranged in descending order, starting with the most recent project):
 
 <ul>
 

@@ -3,12 +3,11 @@ layout: post
 title:  "Quantitative Assessment of Skills and Acquisition in Microsurgery"
 ---
 
-This [project](https://www.epfl.ch/labs/lasa/microsurgery/) combines magnification with advanced microscopes and specialized precision tools to develop an objective evaluation tool for the assessment of microsurgical competence.
-
-Teaching and assessment of skill acquisition in microsurgery is tricky as there are not clear and objective standards. It relies on subjective opinions of senior faculty. However, optimizing the training of future microsurgeons is of great importance and includes objective assessment of skills,  learning curves, and value of various training models.
-The goals of the proposed project is to add scientific knowledge on how hand position, force application and movements change during the surgeon’s trainings and to advance clinical teaching by developing an objective evaluation tool for the assessment of microsurgical competence (the project is supported by the Swiss National Science Foundation. Project number 325230_204694). 
-
-<!-- As a postdoctoral researcher at LASA-EPFL, I contributed to this project in the following papers:
-
-1.  -->
-
+- Swiss National Science Foundation ([Project Page](https://www.epfl.ch/labs/lasa/microsurgery/)) - Number: 325230_204694
+- Role: Postdoctoral Researcher
+- When: October 2022 to Now
+- Laboratory: Learning Algorithms and Systems Laboratory (<a href="https://www.epfl.ch/labs/lasa/">LASA</a>)
+- University: École Polytechnique Fédérale de Lausanne (EPFL, Switzerland)
+- Contributions:
+1. **Gholami, S.**, Manon, A., Yao, K., Billard, A. and Meling, T.R., 2024. [An objective skill assessment framework for microsurgical anastomosis based on ALI scores](https://link.springer.com/article/10.1007/s00701-024-05934-1). Acta Neurochirurgica, 166(1), pp.1-13.
+2. **Gholami, S.**, Yao, K., Meling, T.R., and Billard, A., 2024, Motor Skills Assessment of Microsurgical Anastomosis, The Society for the Neural Control of Movement (NCM) in Croatia. Abstract paper (poster presentation)
