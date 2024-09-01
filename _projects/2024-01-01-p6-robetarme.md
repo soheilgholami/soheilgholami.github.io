@@ -30,6 +30,9 @@ title:  "RoBétArmé"
 <div class="section">
   <strong>Scientific Contributions:</strong>
   <ol>
+        <li> Rui Wu, <strong> Soheil Gholami </strong>, Tristan Bonato, Louis Munier, and Aude Billard, Towards a Scalable Control Scheme for Bio-Inspired Shotcrete Robots, International Conference on Robotics and Automation
+        (ICRA40), Rotterdam, the Netherlands 
+        </li>
         <li>Wu, R., <strong>Gholami, S.</strong>, Bonato, T., Munier, L., and Billard, A., Transferring Shotcrete Skills to Robots, Proceedings of the 10th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob 2024) - Accepted (link will be provided soon)</li>
   </ol>
 </div>

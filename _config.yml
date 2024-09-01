@@ -48,6 +48,7 @@ collections:
 
 header_pages:
   - index.md
+  - _pages/publications.md
   - _pages/news.md
   - _pages/projects.md
   - _pages/blog.md
