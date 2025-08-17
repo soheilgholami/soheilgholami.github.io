@@ -30,7 +30,8 @@ title:  "Four-Handed Human Robot Manipulation for Laparoscopic Surgery"
 <div class="section">
   <strong>Scientific Contributions:</strong>
   <ol>
-    <li> <strong> Gholami, S.</strong>, Munier, L., Bouri, M. and Billard, A., Four-Handed Solo Laparoscopic Anastomosis with the Support of Supernumerary Robotic Arms, International Conference on Robotics and Automation (ICRA40), Rotterdam, the Netherlands 
+    <li><strong>Gholami, S.</strong>, Munier, L., Bouri, M. and Billard, A. (2025). Four-handed solo laparoscopic anastomosis with the support of supernumerary robotic arms. IEEE Engineering in Medicine and Biology Society (EMBC). Copenhagen, Denmark.</li>
+    <li> <strong> Gholami, S.</strong>, Munier, L., Bouri, M. and Billard, A., Four-Handed Solo Laparoscopic Anastomosis with the Support of Supernumerary Robotic Arms, International Conference on Robotics and Automation (ICRA40), Rotterdam, the Netherlands. 
     </li>
     <li><strong>Gholami, S.</strong>, Munier, L., Cabasse, C., Bouri, M., and Billard, A., 2023, Feet-Driven 4-Arm Manipulation: A Novel Approach for Solo Laparoscopic Anastomosis, CURAC 2023 in Basel. Extended abstract paper (best paper award)</li>
     <li><strong>Gholami, S.</strong>, Munier, L., Cabasse, C., Bouri, M., and Billard, A., 2023, Four-Arms Manipulation: a New Way to Implement Robotic Surgery, The Society for the Neural Control of Movement (NCM) in Canada. Abstract paper (poster presentation)</li>

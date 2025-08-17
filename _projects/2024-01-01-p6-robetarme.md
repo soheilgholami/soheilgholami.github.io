@@ -30,10 +30,10 @@ title:  "RoBétArmé"
 <div class="section">
   <strong>Scientific Contributions:</strong>
   <ol>
-        <li> Wu, R., <strong> Gholami, S.</strong>, Bonato, T., Munier, L., and Billard, A. Towards a Scalable Control Scheme for Bio-Inspired Shotcrete Robots, International Conference on Robotics and Automation
-        (ICRA40), Rotterdam, the Netherlands 
+        <li>Wu, R., <strong>Gholami, S.</strong>, Bonato, T., and Billard, A. (2025). Human-inspired planning and control of shotcrete robots based on dynamical systems mapping, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China.</li>
+        <li> Wu, R., <strong> Gholami, S.</strong>, Bonato, T., Munier, L., and Billard, A. (2024). Towards a Scalable Control Scheme for Bio-Inspired Shotcrete Robots, International Conference on Robotics and Automation (ICRA40), Rotterdam, the Netherlands. 
         </li>
-        <li>Wu, R., <strong>Gholami, S.</strong>, Bonato, T., Munier, L., and Billard, A., <a href="https://ieeexplore.ieee.org/abstract/document/10719911">Transferring Shotcrete Skills to Robots</a>, Proceedings of the 10th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics Heidelberg, Germany, 2024, pp. 627-633
+        <li>Wu, R., <strong>Gholami, S.</strong>, Bonato, T., Munier, L., and Billard, A. (2024). <a href="https://ieeexplore.ieee.org/abstract/document/10719911">Transferring Shotcrete Skills to Robots</a>, Proceedings of the 10th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics Heidelberg, Germany, pp. 627-633.
         </li>
   </ol>
 </div>
